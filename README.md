@@ -47,12 +47,8 @@ This project is an intelligent system for real-time detection and classification
 - Multi-camera support  
 - Automated deterrent systems  
 
----
 
 ## Conclusion
 This system provides an automated and efficient solution for reducing human–animal conflicts using AI and IoT technologies.
 
----
-This system provides an automated and efficient solution for reducing human–animal conflicts using AI and IoT technologies.
 
----

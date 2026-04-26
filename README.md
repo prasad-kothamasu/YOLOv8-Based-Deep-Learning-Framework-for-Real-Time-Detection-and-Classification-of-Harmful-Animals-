@@ -1,4 +1,4 @@
-# 🐾 Real-Time Animal Detection & Smart Alert System
+# Real-Time Animal Detection & Smart Alert System
 
 ##  Overview
 This project is an intelligent system for real-time detection and classification of animals using a YOLO-based deep learning model. It enhances safety in agricultural fields, forest borders, and residential areas by providing instant alerts and monitoring.

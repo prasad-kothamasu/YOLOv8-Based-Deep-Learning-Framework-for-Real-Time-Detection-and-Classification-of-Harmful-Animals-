@@ -3,7 +3,7 @@
 ##  Overview
 This project is an intelligent system for real-time detection and classification of animals using a YOLO-based deep learning model. It enhances safety in agricultural fields, forest borders, and residential areas by providing instant alerts and monitoring.
 
----
+
 
 ## Features
 - Real-time animal detection using live camera feed  
@@ -13,7 +13,7 @@ This project is an intelligent system for real-time detection and classification
 - IoT-based location tracking (ESP32)  
 - Scalable and deployable solution  
 
----
+
 
 ## Tech Stack
 - **Language:** Python  
@@ -21,7 +21,7 @@ This project is an intelligent system for real-time detection and classification
 - **Hardware:** ESP32, Buzzer, Camera  
 - **Tools:** Jupyter Notebook / VS Code  
 
----
+
 
 ## Working
 1. Collect and prepare dataset  
@@ -31,7 +31,7 @@ This project is an intelligent system for real-time detection and classification
 5. Trigger alerts (email + buzzer)  
 6. Send location via IoT module  
 
----
+
 
 ## Applications
 - Smart Agriculture  
@@ -39,7 +39,7 @@ This project is an intelligent system for real-time detection and classification
 - Residential Safety  
 - Wildlife Surveillance  
 
----
+
 
 ## Future Scope
 - Mobile app integration  
